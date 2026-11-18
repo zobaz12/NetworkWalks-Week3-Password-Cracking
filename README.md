@@ -65,29 +65,14 @@ Through these practical exercises, I gained experience in:
 
 **Tools & Technologies:**
 
-Tool| Purpose
-John the Ripper| Password security testing
-Johnny GUI| Graphical interface for John the Ripper
-NetworkWalks Hash Calculator| PDF hash extraction
-NetworkWalks Password Cracker| Password recovery testing
-Windows 10| Operating environment
+| Tool | Purpose |
+| ------ | ------- |
+| John the Ripper | Password security testing |
+| Johnny GUI | Graphical interface for John the Ripper |
+| NetworkWalks Hash Calculator | PDF hash extraction |
+| NetworkWalks Password Cracker | Password recovery testing |
+| Windows 10 | Operating environment |
 
-**Repository Structure:**
-
-NetworkWalks-Week3-Password-Cracking/
-│
-├── README.md
-├── LEARNING-OUTCOMES.md
-│
-├── PM1-JTR/
-│   ├── README.md
-│   ├── PM1-Technical-Report.md
-│   └── Screenshots/
-│
-└── PM2-NetworkWalks-Tools/
-    ├── README.md
-    ├── PM2-Technical-Report.md
-    └── Screenshots/
 
 **Practical Results:**
 
