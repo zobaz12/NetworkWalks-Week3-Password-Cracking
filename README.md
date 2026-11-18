@@ -1,22 +1,22 @@
-NetworkWalks – Week 3: Password Cracking
+**NetworkWalks – Week 3: Password Cracking**
 
-Cybersecurity & Ethical Hacking Training Program
+**Cybersecurity & Ethical Hacking Training Program**
 
 This repository documents the practical work completed during Week 3 of the NetworkWalks Cybersecurity & Ethical Hacking Training Program.
 
 The week focused on understanding password cracking techniques and testing password security through two practical modules.
 
-Modules Overview
+**Modules Overview**
 
-Module 1: Password Cracking with John the Ripper (JTR)
+**Module 1: Password Cracking with John the Ripper (JTR)**
 
-Tools Used:
+**Tools Used:**
 
-- John the Ripper (JTR)
-- Johnny GUI
-- PDF Hash Extraction Tool
+- John the Ripper (JTR).
+- Johnny GUI.
+- PDF Hash Extraction Tool.
 
-Tasks Performed:
+**Tasks Performed:**
 
 1. Downloaded and prepared John the Ripper on Windows.
 2. Installed Johnny GUI.
@@ -27,17 +27,18 @@ Tasks Performed:
 7. Executed the password recovery test.
 8. Successfully recovered the password and verified it by opening the protected PDF.
 
-Result: Successfully completed.
+**Result:** Successfully completed.
 
-Module 2: Password Cracking with NetworkWalks Tools
 
-Tools Used:
+**Module 2: Password Cracking with NetworkWalks Tools**
 
-- NetworkWalks Hash Calculator
-- NetworkWalks Password Cracker
-- Web Browser
+**Tools Used:**
 
-Tasks Performed:
+- NetworkWalks Hash Calculator.
+- NetworkWalks Password Cracker.
+- Web Browser.
+
+**Tasks Performed:**
 
 1. Prepared the password-protected PDF file.
 2. Uploaded the PDF to the NetworkWalks Hash Calculator.
@@ -48,9 +49,9 @@ Tasks Performed:
 7. Successfully recovered the password.
 8. Verified the result by opening the protected PDF.
 
-Result: Successfully completed.
+**Result:** Successfully completed.
 
-Learning Outcomes
+**Learning Outcomes:**
 
 Through these practical exercises, I gained experience in:
 
@@ -62,7 +63,7 @@ Through these practical exercises, I gained experience in:
 - Comparing locally installed and online security testing approaches.
 - Verifying password recovery results.
 
-Tools & Technologies
+**Tools & Technologies:**
 
 Tool| Purpose
 John the Ripper| Password security testing
@@ -71,7 +72,7 @@ NetworkWalks Hash Calculator| PDF hash extraction
 NetworkWalks Password Cracker| Password recovery testing
 Windows 10| Operating environment
 
-Repository Structure
+**Repository Structure:**
 
 NetworkWalks-Week3-Password-Cracking/
 │
@@ -88,7 +89,7 @@ NetworkWalks-Week3-Password-Cracking/
     ├── PM2-Technical-Report.md
     └── Screenshots/
 
-Practical Results
+**Practical Results:**
 
 Both modules were successfully completed.
 
@@ -96,7 +97,7 @@ Password recovery was successful in both approaches, and the recovered passwords
 
 Screenshots are provided in each module folder to document the practical implementation and results.
 
-Security & Ethical Considerations
+**Security & Ethical Considerations:**
 
 These exercises were performed for educational purposes using the training files provided by NetworkWalks.
 
@@ -104,7 +105,7 @@ Password security testing should only be conducted on files and systems that you
 
 Sensitive files, extracted hashes, and recovered passwords are intentionally excluded from this public repository.
 
-Training Information
+**Training Information:**
 
 - Training Provider: NetworkWalks
 - Program: Cybersecurity & Ethical Hacking
